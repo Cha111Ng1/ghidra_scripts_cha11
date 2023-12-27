@@ -10,9 +10,9 @@
 
 # 前言
 
-- 以下脚本均在Mac下完成，对其他系统可能存在不适配性能，这里提供代码，仅供参考，大家可根据自己的需求自行修改，涉及Python库自行安装，这些功能都是平常个人使用频率较高的，刷题嘎嘎香。
+- 以下脚本均在Mac下完成，对其他系统可能存在不适配性，这里提供代码，仅供参考，大家可根据自己的需求自行修改，涉及Python库自行安装，这些功能都是平常个人使用频率较高的，刷题嘎嘎香。
     
-- 所有Python代码均基于Python3，如无法使用请参考《Ghidra之 什么？为啥你的Ghidra是Python3》https://mp.weixin.qq.com/s/c8LMwNIK3CEVDA3FJo-lLg切换默认Python （默认的是jpython）。
+- 所有Python代码均基于Python3，如无法使用请参考《Ghidra之 什么？为啥你的Ghidra是Python3》https://mp.weixin.qq.com/s/c8LMwNIK3CEVDA3FJo-lLg 切换默认Python（默认的是jpython）。
     
 # V1.1
 ## 添加配置文件
